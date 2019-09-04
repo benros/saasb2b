@@ -1,0 +1,11 @@
+[PATH]
+project_root = c:/workspace/saasb2b/
+sql_scripts = ${project_root}/sql_scripts/
+
+[DB]
+user = XXXXXX
+password = XXXXX
+account = ft39824.us-east-1
+warehouse = DEV_WH
+database = SAASB2B
+schema = generator
